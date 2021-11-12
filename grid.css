@@ -1,0 +1,8 @@
+.bloggrid{
+	padding-top: 27px;
+}
+.bloggrid__body{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 15px;
+}
